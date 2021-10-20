@@ -1,0 +1,44 @@
+[
+  {
+    "article_id": 1,
+    "naam": "Apple Magic Mouse",
+    "afbeelding": "images/magicmouse.jpg",
+    "beschrijving": "Producttype: Draadloze muis, Signaaloverdracht: Draadloos, Aansluitingen: Lightning, Geschikt voor linkshandigen: ja",
+    "prijs": "75,99"
+  },
+  {
+    "article_id": 2,
+    "naam": "Apple MacBook Pro",
+    "afbeelding": "images/macbook.jpg",
+    "beschrijving": "Multitask met zware programma's als Final Cut Pro op Apple MacBook Pro 13 Space Gray.",
+    "prijs": "1.249"
+  },
+  {
+    "article_id": 3,
+    "naam": "Anti Blauwlicht Bril",
+    "afbeelding": "images/bril.jpg",
+    "beschrijving": "Breng je veel tijd door achter je computer of zit je vaak op je telefoon of tablet? Dan is deze bril met blauw licht filter echt iets voor jou!",
+    "prijs": "14,95"
+  },
+  {
+    "article_id": 4,
+    "naam": "Compacte Gimbal-stabilisatorgimbal",
+    "afbeelding": "images/gimbal.jpg",
+    "beschrijving": "De S1 is een ultracompacte 3-assige gimbal/stabilisator voor smartphones die gemakkelijk in je broekzak past.",
+    "prijs": "188"
+  },
+  {
+    "article_id": 5,
+    "naam": "Koptelefoon met Noise Cancelling",
+    "afbeelding": "images/koptelefoon.jpg",
+    "beschrijving": "De Sony WH-1000XM3 is de ultieme draadloze koptelefoon met noise cancelling.",
+    "prijs": "195"
+  },
+  {
+    "article_id": 6,
+    "naam": "Full HD IPS Monitor",
+    "afbeelding": "images/monitor.jpg",
+    "beschrijving": "De Samsung LS24R350 is een ideale instap monitor voor dagelijks gebruik, dankzij zijn zeer dunne schermranden en minimalistisch design.",
+    "prijs": "145"
+  }
+]
